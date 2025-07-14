@@ -1,0 +1,46 @@
+.formulario-registro {
+  background-color: #fff8f3;
+  padding: 2rem;
+  max-width: 500px;
+  margin: auto;
+  border-radius: 12px;
+  font-family: 'Segoe UI', sans-serif;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+.formulario-registro input,
+.formulario-registro select {
+  width: 100%;
+  padding: 0.6rem;
+  margin-bottom: 1rem;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+}
+
+.formulario-registro {
+  background-color: #fff8f3;
+  padding: 2rem;
+  max-width: 500px;
+  margin: auto;
+  border-radius: 12px;
+  font-family: 'Segoe UI', sans-serif;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+.formulario-registro input,
+.formulario-registro select {
+  width: 100%;
+  padding: 0.6rem;
+  margin-bottom: 1rem;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+}
+
+button {
+  padding: 0.5rem 1rem;
+  background-color: #ffcad4;
+  border: none;
+  border-radius: 8px;
+  font-weight: bold;
+  cursor: pointer;
+}
